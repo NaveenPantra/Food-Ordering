@@ -306,7 +306,11 @@ The Response will be in `application/json` format
 - The deleted user data will be stored in `.data/pastUsers/<email>.json` now this will contain `orders` those with `orderStatus` as `1`'
 - By this data is persistance will be maintained for the `payments` and `orders` for the user. 
 
+###### Payment Gateway
+- [Stripe](https://www.stripe.com) is used as the payment gate way on test data.
 
+###### Mail Agent
+- [MailGun](https://www.mailgun.com) is used as the Mail Agent on free account.
 
 
 
