@@ -1,0 +1,22 @@
+{
+  "item-lemonrice": {
+    "itemName": "Lemon Rice",
+    "itemCost": 30,
+    "itemQuantity": "300 grms",
+    "categoryName": "rice"
+  },
+
+  "item-cashewnutfriedrice": {
+    "itemName": "Cashewnut Fried Rice",
+    "itemCost": 80,
+    "itemQuantity": "400 grms",
+    "categoryName": "rice"
+  },
+
+  "item-radidosa": {
+    "itemName": "Ragi Dosa",
+    "itemCost": 40,
+    "itemQuantity": "120 grms",
+    "categoryName": "dosa"
+  }
+}

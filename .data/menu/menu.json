@@ -1,0 +1,147 @@
+{
+  "rice" : {
+    "Lemon Rice": {
+      "itemName": "Lemon Rice",
+      "itemCost": 30,
+      "itemQuantity": "300 grms"
+    },
+
+    "Tomato rice": {
+      "itemName": "Tomato Rice",
+      "itemCost": 30,
+      "itemQuantity": "300 grms"
+    },
+
+    "Podhinna Rice": {
+      "itemName": "Podhinna Rice",
+      "itemCost": 30,
+      "itemQuantity": "300 grms"
+    },
+
+    "Curvepaku Rice": {
+      "itemName": "Curvepaku Rice",
+      "itemCost": 30,
+      "itemQuantity": "300 grms"
+    },
+
+    "Cashewnut Fried Rice": {
+      "itemName": "Cashewnut Fried Rice",
+      "itemCost": 80,
+      "itemQuantity": "400 grms"
+    },
+
+    "Gobi Fried Rice": {
+      "itemName": "Gobi Fried Rice",
+      "itemCost": 70,
+      "itemQuantity": "300 grms"
+    },
+
+    "Vegetable Fried Rice": {
+      "itemName": "Vegetable Fried Rice",
+      "itemCost": 40,
+      "itemQuantity": "300 grms"
+    },
+
+    "Jeera Rice": {
+      "itemName": "Jeera Rice",
+      "itemCost": 40,
+      "itemQuantity": "300 grms"
+    },
+
+    "Paneer Fried Rice": {
+      "itemName": "Paneer Fried Rice",
+      "itemCost": 60,
+      "itemQuantity": "300grms"
+    }
+  },
+
+  "dosa" : {
+    "Ragi Dosa": {
+      "itemName": "Ragi Dosa",
+      "itemCost": 40,
+      "itemQuantity": "120 grms"
+    },
+
+    "70mm Dosa": {
+      "itemName": "70mm Dosa",
+      "itemCost": 50,
+      "itemQuantity": "150 grms"
+    },
+
+    "Plain Dosa": {
+      "itemName": "Plain Dosa",
+      "itemCost": 20,
+      "itemQuantity": "100 grms"
+    },
+
+    "Masala Dosa": {
+      "itemName": "Masala Dosa",
+      "itemCost": 45,
+      "itemQuantity": "130 grms"
+    },
+
+    "Carrot Dosa": {
+      "itemName": "Carrot Dosa",
+      "itemCost": 40,
+      "itemQuantity": "120 grms"
+    }
+  },
+
+  "Hot Drinks" : {
+    "Tea": {
+      "itemName": "Tea",
+      "itemCost": 10,
+      "itemQuantity": "65 ml"
+    },
+
+    "Coffee": {
+      "itemName": "Coffee",
+      "itemCost": 15,
+      "itemQuantity": "65 ml"
+    },
+
+    "Lemon Tea": {
+      "itemName": "Lemon Tea",
+      "itemCost": 20,
+      "itemQuantity": "80 ml"
+    },
+
+    "Green Tea": {
+      "itemName": "Green Tea",
+      "itemCost": 20,
+      "itemQuantity": "70 ml"
+    },
+
+    "Hot Badam Milk": {
+      "itemName": "Hot Badam Milk",
+      "itemCost": 30,
+      "itemQuantity": "100 ml"
+    }
+  },
+
+  "Cool Drinks": {
+    "Thunbs Up": {
+      "itemName": "Thumbs Up",
+      "itemCost": 20,
+      "itemQuantity": "250 ml"
+    },
+
+    "Pepsi": {
+      "itemName": "Pepsi",
+      "itemCost": 20,
+      "itemQuantity": "300 ml"
+    },
+
+    "Sprite": {
+      "itemName": "Sprite",
+      "itemCost": 20,
+      "itemQuantity": "250 ml"
+    },
+
+    "7 Up": {
+      "itemName": "7 Up",
+      "itemCost": 20,
+      "itemQuantity": "300 ml"
+    }
+  }
+}
