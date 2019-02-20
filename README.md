@@ -214,7 +214,13 @@ This Request will update the `user details`
 
 The response will be in `application/json` will return the updated details of the `user detils`
 ```json
-
+{
+  "data": {
+      "email": "<email>",
+      "fullname": "<Full Name>",
+      "address": "Address of the User"
+  }
+}
 ```
 
 ###### Delete the user
@@ -304,7 +310,7 @@ The Response will be in `application/json` format
 
 - By deleting the user the `payment` details `order` details with `orderStaus` are not deleted as they required for the review in future for payment details.
 - The deleted user data will be stored in `.data/pastUsers/<email>.json` now this will contain `orders` those with `orderStatus` as `1`'
-- By this data is persistance will be maintained for the `payments` and `orders` for the user. 
+- By this data is persistance will be maintained for the `payments` and `orders` of the user. 
 
 ###### Payment Gateway
 - [Stripe](https://www.stripe.com) is used as the payment gate way on test data.
