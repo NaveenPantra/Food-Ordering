@@ -1,5 +1,5 @@
 # Food-Ordering
-##### A Pure nodeJS application, No npm package used used.
+##### A Pure nodeJS application, No npm package used.
 
 - This application use only file system to store the data.
 - Used [mailgun](https://www.mailgun.com) as mail agent using free account.
