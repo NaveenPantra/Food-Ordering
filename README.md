@@ -1,7 +1,10 @@
 # Food-Ordering
-A Pure **nodeJS** application, No _npm package_ used used.
+##### A Pure nodeJS application, No npm package used used.
 
-This application use only file system to store the data.
+- This application use only file system to store the data.
+- Used [mailgun](https://www.mailgun.com) as mail agent using free account.
+- Used [strip](https://www.strip.com) as payment gateway with dummy tokens.
+
 
 ### step - 1
 ###### User Registration
